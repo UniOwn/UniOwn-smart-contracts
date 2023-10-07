@@ -36,12 +36,12 @@ module.exports = {
     },
     polygon: {
       url: "https://rpc.ankr.com/polygon",
-      accounts:[process.env.PTCHR_PRIVATE_KEY],
+      accounts:[process.env.UNIOWN_PRIVATE_KEY],
       allowUnlimitedContractSize: true
     },
     mumbai: {
       url: "https://rpc.ankr.com/polygon_mumbai",
-      accounts:[process.env.PTCHR_PRIVATE_KEY],
+      accounts:[process.env.UNIOWN_PRIVATE_KEY],
       allowUnlimitedContractSize: true
     }
   }, 
