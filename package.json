@@ -1,0 +1,22 @@
+{
+  "name": "uniown-smart-contracts",
+  "version": "1.0.0",
+  "description": "UniOwn Smart Contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx hardhat test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UniOwn/UniOwn-smart-contracts.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UniOwn/UniOwn-smart-contracts/issues"
+  },
+  "homepage": "https://github.com/UniOwn/UniOwn-smart-contracts#readme",
+  "devDependencies": {
+    "hardhat": "^2.18.0"
+  }
+}
